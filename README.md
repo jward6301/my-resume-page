@@ -1,5 +1,5 @@
 # my-resume-page
-this is an example repo using pythong flask to have a resume page deployed with render
+this is an example repo using python flask to have a resume page deployed with render
 
 ## description
 - Step 1: we are going to create some python code here
